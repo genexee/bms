@@ -1,5 +1,6 @@
 # MIT License - Copyright (c) 2026 genex, see LICENSE for full text
-#
+# Based on: https://github.com/genexee/bms
+
 # @en interactive console app, just run it, no command-line arguments
 # needed. scans for the BMS over bluetooth, asks you to pick one if it
 # finds more than one, then shows a menu you drive by typing numbers.
