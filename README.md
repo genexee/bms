@@ -77,3 +77,8 @@ doubt, cross-check against the app before relying on a setting.
 ## License
 
 MIT, see [LICENSE](LICENSE).
+
+
+## Contact
+
+Telegram: @G3N3X_07
