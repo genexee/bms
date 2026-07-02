@@ -33,6 +33,17 @@ on Windows, macOS and Linux without extra drivers.
 
 ## Quick start
 
+Easiest way, just run it and follow the prompts - it scans for the BMS over
+bluetooth, asks you to pick one if it finds more than one, then gives you a
+menu to view status and turn things on/off/charge/discharge by typing a
+number:
+
+```
+python interactive.py
+```
+
+For scripting/automation there's also a plain command-line version:
+
 ```
 python cli.py scan
 python cli.py status  AA:BB:CC:DD:EE:FF
@@ -77,6 +88,7 @@ doubt, cross-check against the app before relying on a setting.
 ## License
 
 MIT, see [LICENSE](LICENSE).
+
 
 
 ## Contact
